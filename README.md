@@ -1,6 +1,6 @@
 # React 360 Image
 
-Jus from the, equirectangular images convert to 360° images using with A-Frame.
+Just from the, equirectangular images convert to 360° images using with A-Frame.
 
 ## Installation
 
