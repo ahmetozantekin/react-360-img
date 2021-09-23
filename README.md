@@ -30,7 +30,7 @@ const App = () => {
 
 ```
 
-## Demo
+## Demo
 
 See a live demo on [CodePen](https://codepen.io/ahmetozantekin/full/JjJBqwj)
 
