@@ -30,6 +30,10 @@ const App = () => {
 
 ```
 
+## Demo
+
+See a live demo on [CodePen](https://codepen.io/ahmetozantekin/full/JjJBqwj)
+
 ## Props
 
 | Name            | Type                    | Default Value |
