@@ -1,0 +1,1 @@
+export const AFRAME_URL = "https://aframe.io/releases/0.5.0/aframe.min.js"
