@@ -56,4 +56,4 @@ To be seamless, images should be [equirectangular](https://en.wikipedia.org/wiki
 To take an equirectangular photo, check out this [ngokevin](https://github.com/ngokevin/)'s [360-degree photographyguide](http://ngokevin.com/blog/360-photography/) 
 
 ##### About Original Project
-Checkout the magnificent [A-Frame](https://aframe.io/) project
+Checkout the magnificent [A-Frame](https://aframe.io/docs/1.2.0/introduction/) project
